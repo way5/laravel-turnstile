@@ -1,5 +1,5 @@
 {
-    "name": "coderflex/laravel-turnstile",
+    "name": "way5/laravel-turnstile",
     "description": "A package to help you implement the Cloudflare turnstile \"CAPTCHA Alternative\"",
     "keywords": [
         "Coderflex",
